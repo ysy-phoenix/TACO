@@ -1,0 +1,2 @@
+python -m sglang_router.launch_router \
+  --worker-urls http://0.0.0.0:8000 http://0.0.0.0:8001 http://0.0.0.0:8002 http://0.0.0.0:8003 http://0.0.0.0:8004 http://0.0.0.0:8005 http://0.0.0.0:8006 http://0.0.0.0:8007 --port 9000
